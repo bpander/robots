@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa072301.css",
+    "main.js": "/static/js/main.416f9cd2.js",
+    "web-vitals.js": "/static/js/web-vitals.d75d3144.chunk.js",
+    "static/media/San_Jose_Strut.mp3": "/static/media/San_Jose_Strut.7b32fce42ada9e315565.mp3",
+    "static/media/VCR_OSD_MONO_1.ttf": "/static/media/VCR_OSD_MONO_1.10cf96d54dcd9af0486c.ttf",
+    "index.html": "/index.html",
+    "main.fa072301.css.map": "/static/css/main.fa072301.css.map",
+    "main.416f9cd2.js.map": "/static/js/main.416f9cd2.js.map",
+    "web-vitals.d75d3144.chunk.js.map": "/static/js/web-vitals.d75d3144.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa072301.css",
+    "static/js/main.416f9cd2.js"
+  ]
+}
