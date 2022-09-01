@@ -1,17 +1,32 @@
 {
   "files": {
-    "main.css": "/robots/static/css/main.ec407266.css",
-    "main.js": "/robots/static/js/main.40d2f9aa.js",
+    "main.css": "/robots/static/css/main.aed8b23e.css",
+    "main.js": "/robots/static/js/main.625ed495.js",
     "web-vitals.js": "/robots/static/js/web-vitals.d75d3144.chunk.js",
+    "static/media/ambience-prairie.mp3": "/robots/static/media/ambience-prairie.16082d9b0a3e62f262f4.mp3",
+    "static/media/splash.mp3": "/robots/static/media/splash.bcb2fb4f912f82c4d45a.mp3",
     "static/media/San_Jose_Strut.mp3": "/robots/static/media/San_Jose_Strut.7b32fce42ada9e315565.mp3",
     "static/media/VCR_OSD_MONO_1.ttf": "/robots/static/media/VCR_OSD_MONO_1.10cf96d54dcd9af0486c.ttf",
+    "static/media/bot-open.mp3": "/robots/static/media/bot-open.7969ad72f3207f19da35.mp3",
+    "static/media/error.mp3": "/robots/static/media/error.c62de09056e877a6c0f5.mp3",
+    "static/media/bot-close.mp3": "/robots/static/media/bot-close.ccb50bb508651305ffd3.mp3",
+    "static/media/wire-in-1.mp3": "/robots/static/media/wire-in-1.120ea044b51c47fdf1dd.mp3",
+    "static/media/chunk-in-1.mp3": "/robots/static/media/chunk-in-1.6480d7d1a5fa5672cb23.mp3",
+    "static/media/chunk-out-1.mp3": "/robots/static/media/chunk-out-1.7f6eb7e8a02a28ca82d4.mp3",
+    "static/media/wire-out-1.mp3": "/robots/static/media/wire-out-1.810983ad20040ca9b37d.mp3",
+    "static/media/wire-out-2.mp3": "/robots/static/media/wire-out-2.537f1bbb2b2b52bb5053.mp3",
+    "static/media/wire-in-2.mp3": "/robots/static/media/wire-in-2.a8695ecff2b1d531f533.mp3",
+    "static/media/chunk-out-2.mp3": "/robots/static/media/chunk-out-2.c6a6ac8a9afcbc36ea61.mp3",
+    "static/media/chunk-out-3.mp3": "/robots/static/media/chunk-out-3.ce3a7cdebdceeae536be.mp3",
+    "static/media/chunk-in-3.mp3": "/robots/static/media/chunk-in-3.c13dfb01d8ffacb638e5.mp3",
+    "static/media/chunk-in-2.mp3": "/robots/static/media/chunk-in-2.3563da566019934706c3.mp3",
     "index.html": "/robots/index.html",
-    "main.ec407266.css.map": "/robots/static/css/main.ec407266.css.map",
-    "main.40d2f9aa.js.map": "/robots/static/js/main.40d2f9aa.js.map",
+    "main.aed8b23e.css.map": "/robots/static/css/main.aed8b23e.css.map",
+    "main.625ed495.js.map": "/robots/static/js/main.625ed495.js.map",
     "web-vitals.d75d3144.chunk.js.map": "/robots/static/js/web-vitals.d75d3144.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec407266.css",
-    "static/js/main.40d2f9aa.js"
+    "static/css/main.aed8b23e.css",
+    "static/js/main.625ed495.js"
   ]
 }
